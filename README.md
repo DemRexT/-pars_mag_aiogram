@@ -47,6 +47,7 @@
   **Для macOS/Linux**:
   
   source venv/bin/activate
+  
 5. **Установите зависимости**:
 
   pip install -r requirements.txt
@@ -58,7 +59,9 @@
 7. **Создайте файл .env в корне проекта и добавьте ваш токен**:
 
   TELEGRAM_TOKEN=your_telegram_token_here
+  
 8. **Запустите бота**:
   
   python bot.py
+  
 9. **Бот будет запущен и будет готов к использованию**.
